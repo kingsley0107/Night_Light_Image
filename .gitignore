@@ -1,0 +1,7 @@
+night_images_reproject/
+result/
+./result/
+.idea/
+*.pyc
+**/*.pyc
+**/__pycache__/
