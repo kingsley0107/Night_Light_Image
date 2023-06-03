@@ -1,6 +1,6 @@
 # Nighttime Image Processor
 Calculate the Nighttime Light Index based on cities.
-
+![performance](./material/performance.png)
 ## Structure
 ![techroute](./material/structure.png)
 
